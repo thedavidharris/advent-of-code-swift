@@ -1,6 +1,5 @@
 import Foundation
 
-
 func validTriangle(triangle:[Int]) -> Bool{
     let a = triangle[0]
     let b = triangle[1]
